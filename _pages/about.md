@@ -7,7 +7,7 @@ subtitle: Research Scientist | CIRES, University of Colorado Boulder & NOAA Glob
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: oh_headshot_2024.jpg
   image_circular: false
   more_info: >
     <p>CIRES & NOAA Global Monitoring Laboratory</p>

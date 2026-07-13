@@ -32,7 +32,3 @@ Welcome to my website! My research combines atmospheric observations, stable iso
 
 I co-lead the development of **[CarbonTracker-CH₄](https://gml.noaa.gov/ccgg/carbontracker-ch4/)**, NOAA's global atmospheric methane data assimilation system, and lead **[AI4Methane](https://ai4ch4.com)**, an international research community advancing artificial intelligence for methane science.
 
-
-#Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-#Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

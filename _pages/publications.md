@@ -1,20 +1,16 @@
 ---
-layout: redirect
+layout: page
 title: Publications
 permalink: /publications/
-redirect: https://scholar.google.com/citations?hl=en&user=TPWqpzYAAAAJ
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
+<script>
+  window.location.replace(
+    "https://scholar.google.com/citations?hl=en&user=TPWqpzYAAAAJ&view_op=list_works&sortby=pubdate"
+  );
+</script>
 
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
-<div class="publications">
-
-{% bibliography %}
-
-</div>
+If you are not redirected automatically, view my
+[Google Scholar profile](https://scholar.google.com/citations?hl=en&user=TPWqpzYAAAAJ&view_op=list_works&sortby=pubdate).

@@ -32,7 +32,7 @@ I am a Research Scientist at the Cooperative Institute for Research in Environme
 
 My research combines atmospheric observations, stable isotopes, satellite retrievals, atmospheric inverse modeling, process-based models, and artificial intelligence to better understand how methane emissions are changing and how they influence Earth's climate.
 
-I co-lead the development of **CarbonTracker-CH₄**, NOAA's global atmospheric methane data assimilation system, and lead **AI4Methane**, an international research community developing next-generation artificial intelligence approaches for methane science.
+I co-lead the development of **[CarbonTracker-CH₄](https://gml.noaa.gov/ccgg/carbontracker-ch4/)**, NOAA's global atmospheric methane data assimilation system, and lead **[AI4Methane](https://ai4ch4.com)**, an international research community advancing artificial intelligence for methane science.
 
 My work bridges observations and models across scales to improve estimates of methane sources and sinks and advance our understanding of the global methane budget.
 

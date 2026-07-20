@@ -4,6 +4,8 @@ title: Curriculum Vitae
 permalink: /cv/
 nav: true
 nav_order: 4
+toc:
+  sidebar: left
 ---
 
 <div class="cv-header">

@@ -6,7 +6,7 @@
 cv_pdf: /assets/pdf/CV_long_Jul_2026.pdf
 
 # Contact
-email: youmioh91@gmail.com
+email: youmi.oh@noaa.gov
 
 # Google Scholar
 scholar_userid: TPWqpzYAAAAJ
@@ -15,7 +15,7 @@ scholar_userid: TPWqpzYAAAAJ
 linkedin_username: youmi-oh-b43502289
 
 # RSS feed
-rss_icon: true
+rss_icon: false
 
 # Uncomment and add additional platforms if desired.
 # github_username: youmioh91

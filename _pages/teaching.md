@@ -15,44 +15,34 @@ postdoctoral researchers, graduate students, and undergraduate researchers worki
 across atmospheric science, ecology, Earth system modeling, and artificial
 intelligence.
 
-My mentoring approach emphasizes:
-
-- clearly defined scientific questions;
-- regular individual and group meetings;
-- increasing independence as projects progress;
-- reproducible coding and data-management practices;
-- scientific writing and presentation skills;
-- collaboration across disciplinary backgrounds; and
-- a supportive research environment grounded in belonging and open communication.
-
 ### Postdoctoral Researchers
 
 **Santanu Halder**  
 Research on atmospheric methane, inverse modeling, and CarbonTracker-CH₄.
 
-**Chris C. R. Smith**  
+**Chris Smith**  
 Research integrating process-based models and machine learning to estimate global
 wetland methane emissions.
 
 ### Graduate Students
 
-**Kevin Rozmiarek — Ph.D. researcher**  
+**Kevin Rozmiarek — Ph.D. student at University of Colorado Boulder**  
 Research on methane stable isotopes and Arctic thermokarst lakes.
 
-**Matt Ziminski — M.S. researcher**  
+**Matt Ziminski — M.S. student at University of Illinois Chicago**  
 Development of interactive visualizations for CarbonTracker-CH₄ atmospheric and
 surface-flux products.
 
-### Undergraduate Researchers
-
-**Rongchao Dong**  
+**Rongchao Dong  — Ph.D. student at University of Pittsburg**  
 Machine-learning methods for global methane-flux prediction.
 
-**Yiming Sun**  
+**Yiming Sun — Ph.D. student at University of Pittsburg**  
 Artificial-intelligence benchmark datasets and predictive modeling of wetland
 methane emissions.
 
-**Christianese Kaiser**  
+### Undergraduate Students
+
+**Christianese Kaiser - Undergraduate student at Princeton University**  
 Regional modeling of annual Arctic methane soil sinks using microbial-process
 representations.
 
@@ -96,16 +86,6 @@ Selected guest lectures include:
 - **Purdue University (2019)**  
   *EAPS 529 – Modeling Ecosystems and Biogeochemical Cycles*  
   Guest lecture on microbial methane oxidation and its role in regulating Arctic methane emissions under climate change.
-
-Beyond formal classroom teaching, I regularly present tutorials and educational
-sessions through interdisciplinary workshops, including AI4Methane activities,
-where I introduce students and early-career researchers to atmospheric methane
-observations, Earth system modeling, CarbonTracker-CH₄, and artificial
-intelligence applications in environmental science.
-
-These lectures emphasize connecting foundational concepts with current research,
-allowing students to engage directly with observations, computational tools, and
-open scientific questions that shape modern Earth system science.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: News
-permalink: /News/
-nav: true
+title: Blog
+permalink: /Blog/
+nav: false
 nav_order: 5
 ---

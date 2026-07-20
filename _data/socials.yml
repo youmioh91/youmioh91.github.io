@@ -1,6 +1,5 @@
 # Social media links displayed at the bottom of the About page.
 # They appear in the order listed below.
-# Documentation: https://github.com/george-gca/jekyll-socials
 
 # Curriculum Vitae
 cv_pdf: /assets/pdf/CV_long_Jul_2026.pdf
@@ -8,34 +7,17 @@ cv_pdf: /assets/pdf/CV_long_Jul_2026.pdf
 # Contact
 email: youmi.oh@noaa.gov
 
+# Work profile
+work_url: https://gml.noaa.gov/staff/youmi.oh/
+
 # Google Scholar
 scholar_userid: TPWqpzYAAAAJ
 
 # LinkedIn
 linkedin_username: youmi-oh-b43502289
 
-# RSS feed
-rss_icon: false
-
-# Uncomment and add additional platforms if desired.
-# github_username: youmioh91
-# orcid_id:
-# researchgate_profile:
-# x_username:
-# bluesky_url:
-# mastodon_url:
-# youtube_id:
-# wechat_qr:
-# whatsapp_number:
-
-# Custom links (optional)
+# One optional custom link
 custom_social:
   logo: /assets/img/ai4methane_logo.png
   title: AI4Methane
   url: https://ai4ch4.com/
-
-  logo: /assets/img/carbontracker_logo.png
-  title: CarbonTracker-CH₄
-  url: https://gml.noaa.gov/ccgg/carbontracker-ch4/
-
-  

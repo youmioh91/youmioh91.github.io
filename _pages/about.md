@@ -14,7 +14,7 @@ profile:
     <p>325 Broadway</p>
     <p>Boulder, CO 80305</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:

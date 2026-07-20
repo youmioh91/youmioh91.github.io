@@ -6,3 +6,5 @@ related_posts: false
 ---
 
 🌱 Our collaborative paper on **multi-decadal wetland methane dynamics using knowledge-guided machine learning** has been published in *Global Change Biology*, advancing AI-enabled understanding of global methane emissions.
+
+🔗 https://doi.org/10.1111/gcb.70899

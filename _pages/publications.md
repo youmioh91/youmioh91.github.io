@@ -151,7 +151,7 @@ toc:
    *Environmental Science & Technology*, 2025.  
    [doi:10.1021/acs.est.4c14090](https://doi.org/10.1021/acs.est.4c14090)
 
-5. **Oh, Y.**, Bruhwiler, L., Lan, X., Basu, S., Schuldt, K., Thoning, K.,
+5. ⭐ **Oh, Y.**, Bruhwiler, L., Lan, X., Basu, S., Schuldt, K., Thoning, K.,
    Michel, S., and coauthors.  
    “CarbonTracker CH₄ 2025.”  
    *NOAA Global Monitoring Laboratory*, 2025.  
@@ -191,7 +191,7 @@ toc:
 
 ## 2023
 
-1. **Oh, Y.**, Bruhwiler, L., Lan, X., Basu, S., Schuldt, K., Thoning, K.,
+1. ⭐ **Oh, Y.**, Bruhwiler, L., Lan, X., Basu, S., Schuldt, K., Thoning, K.,
    Michel, S., and coauthors.  
    “CarbonTracker CH₄ 2023.”  
    *NOAA Global Monitoring Laboratory*, 2023.  

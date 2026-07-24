@@ -28,7 +28,7 @@ latest_posts:
 
 ### Understanding Earth's methane cycle through observations, models, isotopes, satellites, and artificial intelligence.
 
-Welcome to my website! My research combines atmospheric observations, stable isotopes, satellite retrievals, atmospheric inverse modeling, process-based models, and artificial intelligence to better understand how methane emissions are changing and how they influence Earth's climate. My work bridges observations and models across scales to improve estimates of methane sources and sinks and advance our understanding of the global methane budget.
+Methane is responsible for nearly one-third of modern global warming, yet its natural and anthropogenic sources remain one of the largest uncertainties in the global carbon cycle. My research integrates atmospheric observations, stable isotopes, satellite retrievals, atmospheric inverse modeling, process-based models, and artificial intelligence to better understand how methane emissions are changing and how they influence Earth's climate. My work bridges observations and models across scales to improve estimates of methane sources and sinks and advance our understanding of the global methane budget.
 
 I co-lead the development of **[CarbonTracker-CH₄](https://gml.noaa.gov/ccgg/carbontracker-ch4/)**, NOAA's global atmospheric methane data assimilation system, and lead **[AI4Methane](https://ai4ch4.com)**, an international research community advancing artificial intelligence for methane science.
 

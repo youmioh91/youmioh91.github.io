@@ -31,7 +31,6 @@ nav_order: 2
       >
     </div>
 
-```
 <div class="research-text">
   <h2>CarbonTracker-CH₄ and the Global Methane Budget</h2>
 
@@ -75,7 +74,6 @@ nav_order: 2
     </a>
   </p>
 </div>
-```
 
   </section>
 
@@ -87,7 +85,6 @@ nav_order: 2
       >
     </div>
 
-```
 <div class="research-text">
   <h2>Natural Methane Sources and Sinks</h2>
 
@@ -131,7 +128,6 @@ nav_order: 2
     </a>
   </p>
 </div>
-```
 
   </section>
 
@@ -143,7 +139,6 @@ nav_order: 2
       >
     </div>
 
-```
 <div class="research-text">
   <h2>Stable Isotopes and Methane Source Attribution</h2>
 
@@ -178,7 +173,6 @@ nav_order: 2
     </a>
   </p>
 </div>
-```
 
   </section>
 
@@ -190,7 +184,6 @@ nav_order: 2
       >
     </div>
 
-```
 <div class="research-text">
   <h2>AI4Methane and Knowledge-Guided Machine Learning</h2>
 
@@ -249,7 +242,6 @@ nav_order: 2
     </a>
   </p>
 </div>
-```
 
   </section>
 
@@ -260,8 +252,7 @@ nav_order: 2
         alt="Satellite and in situ methane observations across spatial scales"
       >
     </div>
-
-```
+    
 <div class="research-text">
   <h2>Satellite Observations and Multi-Scale Integration</h2>
 
@@ -303,7 +294,6 @@ nav_order: 2
     </a>
   </p>
 </div>
-```
 
   </section>
 

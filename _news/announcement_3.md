@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-🤖 Excited to continue leading the **AI4Methane Working Group**, bringing together researchers from atmospheric science, ecology, computer science, and Earth system modeling to develop next-generation AI approaches for methane research.
+🌐 We launched a redesigned **AI4Methane** website, reflecting the expanded scope of our international research community to advance artificial intelligence for both **natural and anthropogenic methane** research.
 
-🔗 https://ai4ch4.com/
+🌐 [Visit the AI4Methane website](https://ai4ch4.com/)

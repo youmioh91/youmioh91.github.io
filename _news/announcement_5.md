@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-🌍 CarbonTracker-CH₄ continues to evolve! Our team is expanding atmospheric methane inversion capabilities by integrating satellite observations, stable isotopes, and advanced inverse modeling to better quantify global methane sources and sinks.
+🎤 I presented our latest **CarbonTracker-CH₄** research at **GMAC 2026**, showcasing advances in integrating satellite methane and stable isotope observations to better quantify global methane emissions during 2019–2024.
 
-🔗 https://gml.noaa.gov/ccgg/carbontracker-ch4/
+🌐 [Learn more about GMAC 2026](https://gml.noaa.gov/gmac/agenda.html)

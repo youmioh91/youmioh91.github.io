@@ -17,12 +17,12 @@ intelligence.
 
 ### Postdoctoral Researchers
 
-**Santanu Halder**  
-Research on atmospheric methane, inverse modeling, and CarbonTracker-CH₄.
-
 **Chris Smith**  
 Research integrating process-based models and machine learning to estimate global
 wetland methane emissions.
+
+**Santanu Halder**  
+Research on atmospheric methane, inverse modeling, and CarbonTracker-CH₄.
 
 ### Graduate Students
 
@@ -98,27 +98,39 @@ researchers can learn, collaborate, and develop professional networks.
 ### AI4Methane
 
 As Principal Investigator of the
-[AI4Methane Working Group](https://ai4ch4.com/){:target="_blank"},
-I coordinate an interdisciplinary community connecting environmental scientists,
-modelers, and artificial-intelligence researchers. The group supports collaborative
-research, student participation, workshops, shared datasets, and open-source tools
-for methane science.
+[AI for Natural Methane Working Group](https://cu-esiil.github.io/AI-for-Natural-Methane/){:target="_blank"},
+I established an interdisciplinary research community connecting environmental scientists,
+Earth system modelers, and artificial-intelligence researchers. The initiative has since
+expanded into
+[AI4Methane](https://ai4ch4.com/){:target="_blank"},
+an international collaboration advancing artificial intelligence for both natural and
+anthropogenic methane research through collaborative projects, workshops, shared datasets,
+and open-source software.
 
 ### NOAA Global Monitoring Laboratory Seminar Series
 
-As an organizer of the NOAA GML Seminar Series, I help bring researchers and
-students together to discuss emerging topics in atmospheric composition, climate,
-observations, and modeling.
+As an organizer of the
+[NOAA Global Monitoring Laboratory Seminar Series](https://gml.noaa.gov/about/seminars.php){:target="_blank"},
+I coordinate weekly seminars that bring together researchers and students to discuss
+emerging topics in atmospheric composition, greenhouse gases, climate, observations,
+and Earth system modeling.
 
 ### CIRES Mentoring Program
 
-Through the CIRES Mentoring Program, I contribute to efforts that support
-professional development, career guidance, and an inclusive research environment.
+As a mentor in the
+[CIRES Mentoring Program](https://ciresmentoring.colorado.edu/){:target="_blank"},
+I support early-career researchers through professional development, career guidance,
+and cross-disciplinary mentoring while contributing to an inclusive research environment.
+
+### FLUXNET Early Career Scientist Network
+
+As an organizer of the
+[FLUXNET Early Career Scientist Network](https://fluxnet.org/community/ecn-early-career-scientist-network/){:target="_blank"},
+I help foster professional development, scientific exchange, and international collaboration
+among early-career scientists working in ecosystem flux and Earth system research.
 
 ### Workshops and Scientific Sessions
 
-I have organized interdisciplinary workshops and scientific sessions for the
-American Geophysical Union and other research communities. These activities create
-opportunities for students and early-career scientists to present their work,
-receive feedback, and build collaborations.
+I organize interdisciplinary workshops and scientific sessions for the American Geophysical Union and other international research communities. These activities provide opportunities for students and early-career scientists to present their research, receive constructive feedback, expand their professional networks, and develop new interdisciplinary collaborations.
+
 

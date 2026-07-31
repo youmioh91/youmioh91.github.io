@@ -63,7 +63,7 @@ nav_order: 2
       target="_blank"
       rel="noopener noreferrer"
     >
-      CarbonTracker-CH₄
+      Our Recent Publication on CarbonTracker-CH₄
     </a>
     <span>·</span>
     <a
@@ -71,7 +71,7 @@ nav_order: 2
       target="_blank"
       rel="noopener noreferrer"
     >
-      Isotope-enabled global methane inversion
+      Impact of Soil Sink on CarbonTracker-CH₄
     </a>
   </p>
 </div>
@@ -119,7 +119,7 @@ nav_order: 2
       target="_blank"
       rel="noopener noreferrer"
     >
-      Wetland methane dynamics
+      Forest methane soil sinks
     </a>
     <span>·</span>
     <a
@@ -127,15 +127,7 @@ nav_order: 2
       target="_blank"
       rel="noopener noreferrer"
     >
-      Inland-water methane emissions
-    </a>
-    <span>·</span>
-    <a
-      href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009668"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      Global soil methane sink
+      Soil Sinks in Greenland
     </a>
   </p>
 </div>
@@ -182,7 +174,7 @@ nav_order: 2
       target="_blank"
       rel="noopener noreferrer"
     >
-      Methane isotopes and the global budget
+      Review on isotopes of greenhouse gases
     </a>
   </p>
 </div>
@@ -233,22 +225,6 @@ nav_order: 2
 
   <p class="research-links">
     <a
-      href="https://ai4ch4.com/"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      AI4Methane
-    </a>
-    <span>·</span>
-    <a
-      href="https://arxiv.org/abs/2606.00338"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      CHAM-net
-    </a>
-    <span>·</span>
-    <a
       href="https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.70899"
       target="_blank"
       rel="noopener noreferrer"
@@ -261,7 +237,7 @@ nav_order: 2
       target="_blank"
       rel="noopener noreferrer"
     >
-      AI for methane flux prediction
+      AI-ready natural methane dataset
     </a>
     <span>·</span>
     <a
@@ -269,7 +245,7 @@ nav_order: 2
       target="_blank"
       rel="noopener noreferrer"
     >
-      AI-ready natural methane dataset
+      AI-based upscaling of wetland methane
     </a>
   </p>
 </div>
@@ -315,7 +291,7 @@ nav_order: 2
       target="_blank"
       rel="noopener noreferrer"
     >
-      Satellite methane observations
+      Satellite methane observation comparison
     </a>
     <span>·</span>
     <a

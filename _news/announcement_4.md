@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-🎥 The recording of my recent **ESIIL Environmental Data Science Seminar** is now available! The seminar discusses how knowledge-guided machine learning and atmospheric observations can improve estimates of global natural methane fluxes.
+🎥 The recording of my **ESIIL Environmental Data Science Seminar** is now available! The seminar highlights how artificial intelligence, atmospheric observations, and process-based models can be integrated to improve estimates of global natural methane fluxes.
 
-🔗 https://esiil.org/news-events/eds-seminar-next-generation-modeling-global-natural-methane-fluxes
+🎥 [Watch the seminar](https://esiil.org/news-events/eds-seminar-next-generation-modeling-global-natural-methane-fluxes)

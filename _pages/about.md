@@ -26,9 +26,10 @@ latest_posts:
   enabled: false
 ---
 
-### Understanding Earth's methane cycle through observations, models, isotopes, satellites, and artificial intelligence.
+### Understanding the changing global methane cycle through observations, models, isotopes, satellites, and artificial intelligence.
 
-Methane is responsible for nearly one-third of modern global warming, yet its natural and anthropogenic sources remain one of the largest uncertainties in the global carbon cycle. My research integrates atmospheric observations, stable isotopes, satellite retrievals, atmospheric inverse modeling, process-based models, and artificial intelligence to better understand how methane emissions are changing and how they influence Earth's climate. My work bridges observations and models across scales to improve estimates of methane sources and sinks and advance our understanding of the global methane budget.
+Methane is responsible for nearly one-third of present-day global warming, yet its sources, sinks, and climate feedbacks remain among the largest uncertainties in the Earth system. **My research seeks to understand how the global methane cycle is changing and to identify the natural and anthropogenic processes driving those changes.**
 
-I co-lead the development of **[CarbonTracker-CH₄](https://gml.noaa.gov/ccgg/carbontracker-ch4/)**, NOAA's global atmospheric methane data assimilation system, and lead **[AI4Methane](https://ai4ch4.com)**, an international research community advancing artificial intelligence for methane science.
+**To address these questions, I integrate atmospheric observations, stable isotope measurements, satellite retrievals, atmospheric inverse modeling, process-based ecosystem models, and artificial intelligence.** By combining complementary observations with physics-based and data-driven approaches, I develop next-generation frameworks to better quantify methane emissions and sinks, reduce uncertainties in the global methane budget, and improve our understanding of methane–climate feedbacks.
 
+I co-lead the development of **[CarbonTracker-CH₄](https://gml.noaa.gov/ccgg/carbontracker-ch4/)**, NOAA's global atmospheric methane data assimilation system, and founded and co-lead **[AI4Methane](https://ai4ch4.com)**, an international collaborative network advancing artificial intelligence for methane science.

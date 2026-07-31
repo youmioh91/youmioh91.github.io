@@ -59,7 +59,7 @@ nav_order: 2
 
   <p class="research-links">
     <a
-      href="https://gml.noaa.gov/ccgg/carbontracker-ch4/"
+      href="https://www.nature.com/articles/s41467-026-74777-4"
       target="_blank"
       rel="noopener noreferrer"
     >
@@ -67,7 +67,7 @@ nav_order: 2
     </a>
     <span>·</span>
     <a
-      href="https://www.nature.com/articles/s41467-026-74777-4"
+      href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009668"
       target="_blank"
       rel="noopener noreferrer"
     >

@@ -44,37 +44,41 @@ toc:
    “High-resolution daily wetland methane flux estimation via temperature-hysteresis-informed deep learning.”  
    *Remote Sensing of Environment*, under review. 🤖
 
-3. Rozmiarek, K. S., Liu, X., **Oh, Y.**, Overeem, I., Miller, E. A.,
+3. Dong, R., Sun, Y., Qiu, C., Chen, S., **Oh, Y.**, Liu, L., Xie, Y., and Jia, X.  
+   “From Coarse Grids to Sparse Chambers: Simulation–Observation Integrated Learning for Global Methane Uptake Prediction.”  
+   *Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2027), AI4Science Track*, under review. 🤖
+
+4. Rozmiarek, K. S., Liu, X., **Oh, Y.**, Overeem, I., Miller, E. A.,
    Morris, V., Vaughn, B. H., Walter Anthony, K. M., and coauthors.  
    “Controls on ¹³C-CH₄ from Arctic thermokarst lakes.”  
    *Journal of Geophysical Research: Biogeosciences*, under review.
 
-4. Qi, Y., Ying, Q., Poulter, B., Jackson, R. B., Knox, S. H., Li, F.,
+5. Qi, Y., Ying, Q., Poulter, B., Jackson, R. B., Knox, S. H., Li, F.,
    **Oh, Y.**, and coauthors.  
    “Critical challenges in extending regional machine-learning models of
    wetland CH₄ fluxes to the global scale.”  
    *Global Biogeochemical Cycles*, under review. 🤖
 
-5. Sun, Y., Yu, R., Dong, R., Chen, S., Liu, L., **Oh, Y.**, Zhuang, Q.,
+6. Sun, Y., Yu, R., Dong, R., Chen, S., Liu, L., **Oh, Y.**, Zhuang, Q.,
    Xie, Y., and Jia, X.  
    “Role-aware conditional inference for spatiotemporal ecosystem carbon
    flux prediction.”  
    *ACM SIGKDD Conference on Knowledge Discovery and Data Mining,
    AI for Science Track*, under review. 🤖
 
-6. Wu, Q., Gu, K., Peng, B., Zhu, Q., Tang, J., Jia, X., Kumar, K.,
+7. Wu, Q., Gu, K., Peng, B., Zhu, Q., Tang, J., Jia, X., Kumar, K.,
    Chen, M., Lou, C., **Oh, Y.**, and Liu, L.  
    “Constraining global wetland CH₄ emissions from sparse observations
    with a Bridge Model framework.”  
    *Communications Earth & Environment*, under review. 🤖
 
-7. Chen, S., Zhu, Q., Liu, L., Zheng, J., Jia, X., Malhotra, A.,
+8. Chen, S., Zhu, Q., Liu, L., Zheng, J., Jia, X., Malhotra, A.,
    Metzger, S., **Oh, Y.**, and coauthors.  
    “Next-generation monitoring and modeling of wetland methane dynamics
    through artificial intelligence.”  
    *Communications Earth & Environment*, under review. 🤖
 
-8. Watts, J. D., Gewirtzman, J., Cadillo-Quiroz, H., Sihi, D., Tang, R.,
+9. Watts, J. D., Gewirtzman, J., Cadillo-Quiroz, H., Sihi, D., Tang, R.,
    West, J., Leshyk, V., Burba, G., Davidson, E., Helbig, M., Malhotra, A.,
    Matthes, J., **Oh, Y.**, and coauthors.  
    “Terrestrial methane oxidation: Climate implications and research

@@ -26,7 +26,7 @@ toc:
   </a>
 </p>
 
-**⭐ Lead, corresponding, advising author**  
+**⭐ Lead, corresponding, or advising author**  
 **📣 Media coverage or research highlight**  
 **🤖 Artificial intelligence and machine learning**
 

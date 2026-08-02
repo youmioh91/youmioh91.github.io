@@ -26,7 +26,7 @@ toc:
   </a>
 </p>
 
-**⭐ Lead or corresponding author**  
+**⭐ Lead, corresponding, advising author**  
 **📣 Media coverage or research highlight**  
 **🤖 Artificial intelligence and machine learning**
 
@@ -34,7 +34,7 @@ toc:
 
 ## Under Review
 
-1. Smith, C. C. R., Chen, S., Malone, S. L., McNicol, G., Zhu, Q.,
+1. ⭐ Smith, C. C. R., Chen, S., Malone, S. L., McNicol, G., Zhu, Q.,
    Liu, L., and **Oh, Y.**  
    “Integrating machine learning with a process-based model for estimating
    global wetland methane emissions.”  

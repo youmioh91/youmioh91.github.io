@@ -9,9 +9,8 @@ nav_order: 2
 <div class="research-intro">
   <p class="lead">
     My research seeks to understand how and why the global methane cycle is
-    changing by integrating atmospheric observations, stable isotopes,
-    atmospheric inverse modeling, process-based models, satellite remote
-    sensing, and artificial intelligence.
+    changing by integrating atmospheric observations, stable isotopes, satellite remote sensing, 
+    atmospheric inverse modeling, process-based models, and artificial intelligence.
   </p>
 
   <p>
@@ -45,14 +44,14 @@ nav_order: 2
     </a>,
     NOAA’s global atmospheric methane data assimilation system.
     CarbonTracker-CH₄ combines atmospheric observations, prior emission
-    estimates, and atmospheric transport modeling to quantify methane
+    estimates, and atmospheric chemistry and transport modeling to quantify methane
     sources and sinks across the globe.
   </p>
 
   <p>
     My work focuses on identifying the processes responsible for recent
-    atmospheric methane growth, improving microbial and fossil-fuel source
-    attribution, and evaluating how uncertainties in atmospheric chemistry
+    atmospheric methane growth from 2000 to present, improving microbial and fossil-fuel source
+    attribution using isotopes, and evaluating how uncertainties in atmospheric chemistry
     and soil methane uptake influence inferred emissions.
   </p>
 
@@ -90,16 +89,16 @@ nav_order: 2
 
   <p>
     Natural methane sources and sinks remain among the largest uncertainties
-    in the global methane budget. My research examines wetland emissions,
-    soil methane uptake, lake emissions, microbial oxidation, and
-    high-latitude methane feedbacks.
+    in the global methane budget. My research examines the spatial and temporal dynamics of 
+    wetland methane emissions and soil methane uptake, 
+    with a focus on the microbial processes and environmental feedbacks that regulate these fluxes.
   </p>
 
   <p>
-    I combine process-based models, field observations, machine learning,
-    remote sensing, and atmospheric inversions to reconcile bottom-up and
+    I combine field observations, remote sensing, process-based models, machine learning,
+    and atmospheric inversions to reconcile bottom-up and
     top-down estimates and identify the environmental controls governing
-    methane production, oxidation, transport, and exchange.
+    methane production, oxidation, transport, and exchange to the atmosphere.
   </p>
 
   <p class="research-links">
@@ -140,11 +139,11 @@ nav_order: 2
     </div>
 
 <div class="research-text">
-  <h2>Stable Isotopes and Methane Source Attribution</h2>
+  <h2>Stable Isotopes and Methane Source and Sink Attribution</h2>
 
   <p>
     Stable isotopes provide critical information for distinguishing methane
-    sources that cannot be separated using methane concentrations alone.
+    sources and sinks that cannot be separated using methane concentrations alone.
     I incorporate atmospheric δ¹³C-CH₄ observations—and increasingly
     δD-CH₄—into global inverse modeling frameworks.
   </p>
@@ -152,7 +151,7 @@ nav_order: 2
   <p>
     This multi-tracer approach helps distinguish microbial, fossil-fuel,
     biomass-burning, and sink-related contributions to atmospheric methane
-    change while reducing ambiguity in global source attribution.
+    change while reducing uncertainties in global source and sink attribution.
   </p>
 
   <p class="research-links">
@@ -203,14 +202,14 @@ nav_order: 2
   </p>
 
   <p>
-    My AI research combines scientific knowledge with machine learning
+    Our AI research combines scientific knowledge with machine learning
     through hybrid modeling, physical constraints, uncertainty-aware
     prediction, interpretable model design, and benchmark datasets for
     methane science.
   </p>
 
   <p>
-    Rather than replacing process-based models, I use machine learning to
+    Rather than replacing process-based models, I incorporate process-based knowledge into machine learning to
     improve spatial representation, identify missing processes, characterize
     model uncertainty, and support robust prediction under sparse
     observational coverage.
@@ -272,8 +271,7 @@ nav_order: 2
 
   <p>
     This research supports improved regional methane estimates, independent
-    model evaluation, and the development of higher-resolution,
-    decision-relevant CarbonTracker-CH₄ products.
+    model evaluation, and the development of higher-resolution decision-support bottom-up and top-down products.
   </p>
 
   <p class="research-links">

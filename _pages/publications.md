@@ -9,9 +9,8 @@ toc:
 ---
 
 <p class="lead">
-  My research combines atmospheric observations, stable isotopes, inverse modeling,
-  process-based models, satellite observations, and artificial intelligence to better
-  understand the global methane cycle.
+  My research combines atmospheric observations, stable isotopes, remote sensing, inverse modeling,
+  process-based models, and artificial intelligence to better understand and predict the global methane cycle.
 </p>
 
 <p>

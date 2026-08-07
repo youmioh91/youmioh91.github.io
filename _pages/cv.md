@@ -11,9 +11,9 @@ toc:
 
 <div class="cv-header">
   <p class="lead">
-    Research scientist advancing understanding of the global methane cycle through
-    atmospheric observations, stable isotopes, inverse modeling, process-based models,
-    satellite observations, and artificial intelligence.
+    Research scientist advancing understanding and prediction of the global methane cycle through
+    atmospheric observations, stable isotopes, remote sensing, inverse modeling, process-based models,
+    and artificial intelligence.
   </p>
 
   <p>
@@ -45,12 +45,9 @@ toc:
 
 ## Research Interests
 
-- Global methane budget and atmospheric methane trends
-- Atmospheric inverse modeling and CarbonTracker-CH₄
-- Stable carbon and hydrogen isotopes of methane
-- Wetland methane emissions and soil methane oxidation
+- Global carbon budget and trends, in particular methane
+- Atmospheric multi-tracer inverse modeling using multi-source observations
 - Process-based terrestrial ecosystem modeling
-- Satellite and in situ atmospheric observations
 - Knowledge-guided machine learning and artificial intelligence
 - Earth system modeling and carbon–climate feedbacks
 
@@ -58,13 +55,13 @@ toc:
 
 - **Research Scientist II** at CIRES, the University of Colorado Boulder, and
   NOAA Global Monitoring Laboratory
-- Developer and scientific lead for **NOAA CarbonTracker-CH₄**
+- Developer for **NOAA CarbonTracker-CH₄**
 - Principal Investigator of the **AI4Methane Working Group**
 - Principal Investigator on projects supported by the
   **U.S. Department of Energy**, **NSF ESIIL**, and
   **Spark Climate Solutions**
-- Research spanning atmospheric inversion, stable isotopes, process modeling,
-  satellite observations, and knowledge-guided machine learning
+- Research spanning stable isotopes, remote sensing, process modeling,
+  atmospheric inversion, and knowledge-guided machine learning
 - Publications in **Nature Communications**, **Nature Climate Change**,
   **Global Change Biology**, **PNAS**, and other leading journals
 - Mentor to postdoctoral researchers and undergraduate, master's, and
@@ -80,8 +77,6 @@ University of Colorado Boulder and NOAA Global Monitoring Laboratory**
 
 - Advance NOAA's atmospheric methane data-assimilation system,
   **CarbonTracker-CH₄**
-- Integrate atmospheric CH₄ observations, stable isotopes, satellite data,
-  transport modeling, and prior emission estimates
 - Lead research on global methane sources, sinks, trends, and uncertainties
 - Develop next-generation methane modeling frameworks using artificial intelligence
 
@@ -92,7 +87,8 @@ University of Colorado Boulder and NOAA Global Monitoring Laboratory**
 *March 2023–April 2025*
 
 - Advanced the CarbonTracker-CH₄ atmospheric methane assimilation system
-- Developed joint CH₄ and δ¹³C-CH₄ inversion modeling frameworks
+- Integrate atmospheric CH₄ observations, stable isotopes, satellite data,
+  transport modeling, and prior emission estimates
 - Led research connecting atmospheric constraints with natural methane processes
 
 ### Postdoctoral Associate
@@ -454,7 +450,7 @@ Reviewer for more than 30 manuscripts since 2020, including submissions to:
 
 ### Modeling
 
-- CarbonTracker-CH₄
+- CarbonTracker-CH₄ atmospheric data assimilation system
 - TM5 atmospheric chemistry and transport model
 - Terrestrial Ecosystem Model
 - Process-based methane biogeochemistry models

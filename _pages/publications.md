@@ -83,6 +83,37 @@ toc:
    priorities.”  
    *Nature Reviews Earth & Environment*, under review.
 
+10. Wagh, S., Basso, L. S., Fleischmann, A. F., Fernandes Amaral, J. H.,
+    Melack, J., Larvic, J., Walter, D., Hantson, S., Marshall, J., Wilson, C.,
+    **Oh, Y.**, Bruhwiler, L., Miller, J. B., Vigouroux, C., RÃdenbeck, C.,
+    and BotÃ­a, S.  
+    “The Added Value of Amazon Observations to Estimate Methane Budget over
+    South American River Basins in a Global Inversion System.”  
+    *Atmospheric Chemistry and Physics*, under review. 
+    [EGUsphere preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-5245/)
+
+11. Gaubert, B., and coauthors, including **Oh, Y.**  
+    “Tropospheric Oxidation Chemistry and Methane Growth: A Process-Based
+    Attribution of OH Variability (2003-2022).”   
+    *Atmospheric Chemistry and Physics*, under review.  
+    [EGUsphere preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-4883/)
+
+12. Rosan, T. M., Basso, L. S., BotÃ­a, S., Pan, N., Zimbres, B., Silva, C.,
+    Silva-Junior, C. H., von Randow, C., Ometto, J. P., AragÃ£o, L. E. O. C.,
+    Martinez, A., Ito, A., Arneth, A., Fendrich, A., Jain, A., Valade, A.,
+    van der Woude, A., Poulter, B., GÃ³mez-Ortiz, C., Wilson, C.,
+    Schwingshackl, C., Gloor, E., Monier, E., Kato, E., Tian, H., Harman, I.,
+    Luijkx, I. T., East, J. D., Souza, J. G., Melton, J. R., Canadell, J. G.,
+    Rosentreter, J. A., Aas, K. S., Ma, L., Bruhwiler, L. P., Balzarolo, M.,
+    ChiriacÃ², M. V., Juillard, M., O'Sullivan, M., Ciais, P., Friedlingstein, P.,
+    Sun, Q., Lauerwald, R., Hancock, S. E., Diez, S., Smallman, T. L.,
+    Yazbeck, T., Colligan, T., Kleinen, T., NÃ¼tzel, T., Eames, T., Brovkin, V.,
+    Heinrich, V., Yuan, W., Peters, W., Xu, Y., Villalobos, Y., **Oh, Y.**,
+    Gao, Y., Deng, Z., and Sitch, S.  
+    “The South American Greenhouse Gas Budget (2010-2024).” 
+    *Journal of Geophysical Research: Biogeosciences*, under review.
+   
+
 ## 2026
 
 1. ⭐ **Oh, Y.**, Bruhwiler, L., Lan, X., Halder, S., Riddell-Young, B.,

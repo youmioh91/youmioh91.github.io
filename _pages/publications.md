@@ -37,53 +37,55 @@ toc:
    “Integrating machine learning with a process-based model for estimating
    global wetland methane emissions.”  
    *Geophysical Research Letters*, under review. 🤖
+   [Preprint](https://eartharxiv.org/repository/view/13104/)
 
-2. Wang, S., Liu, J., Kasa, K., **Oh, Y.**, and Ryu, Y.  
+3. Wang, S., Liu, J., Kasa, K., **Oh, Y.**, and Ryu, Y.  
    “High-resolution daily wetland methane flux estimation via temperature-hysteresis-informed deep learning.”  
    *Remote Sensing of Environment*, under review. 🤖
 
-3. Dong, R., Sun, Y., Qiu, C., Chen, S., **Oh, Y.**, Liu, L., Xie, Y., and Jia, X.  
+4. Dong, R., Sun, Y., Qiu, C., Chen, S., **Oh, Y.**, Liu, L., Xie, Y., and Jia, X.  
    “From Coarse Grids to Sparse Chambers: Simulation–Observation Integrated Learning for Global Methane Uptake Prediction.”  
    *Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2027), AI4Science Track*, under review. 🤖
 
-4. Rozmiarek, K. S., Liu, X., **Oh, Y.**, Overeem, I., Miller, E. A.,
+5. Rozmiarek, K. S., Liu, X., **Oh, Y.**, Overeem, I., Miller, E. A.,
    Morris, V., Vaughn, B. H., Walter Anthony, K. M., and coauthors.  
    “Controls on ¹³C-CH₄ from Arctic thermokarst lakes.”  
    *Journal of Geophysical Research: Biogeosciences*, under review.
 
-5. Qi, Y., Ying, Q., Poulter, B., Jackson, R. B., Knox, S. H., Li, F.,
+6. Qi, Y., Ying, Q., Poulter, B., Jackson, R. B., Knox, S. H., Li, F.,
    **Oh, Y.**, and coauthors.  
    “Critical challenges in extending regional machine-learning models of
    wetland CH₄ fluxes to the global scale.”  
    *Global Biogeochemical Cycles*, under review. 🤖
 
-6. Sun, Y., Yu, R., Dong, R., Chen, S., Liu, L., **Oh, Y.**, Zhuang, Q.,
+7. Sun, Y., Yu, R., Dong, R., Chen, S., Liu, L., **Oh, Y.**, Zhuang, Q.,
    Xie, Y., and Jia, X.  
    “Role-aware conditional inference for spatiotemporal ecosystem carbon
    flux prediction.”  
    *ACM SIGKDD Conference on Knowledge Discovery and Data Mining,
    AI for Science Track*, under review. 🤖
+   [Preprint](https://arxiv.org/abs/2603.03531)
 
-7. Wu, Q., Gu, K., Peng, B., Zhu, Q., Tang, J., Jia, X., Kumar, K.,
+9. Wu, Q., Gu, K., Peng, B., Zhu, Q., Tang, J., Jia, X., Kumar, K.,
    Chen, M., Lou, C., **Oh, Y.**, and Liu, L.  
    “Constraining global wetland CH₄ emissions from sparse observations
    with a Bridge Model framework.”  
    *Communications Earth & Environment*, under review. 🤖
 
-8. Chen, S., Zhu, Q., Liu, L., Zheng, J., Jia, X., Malhotra, A.,
+10. Chen, S., Zhu, Q., Liu, L., Zheng, J., Jia, X., Malhotra, A.,
    Metzger, S., **Oh, Y.**, and coauthors.  
    “Next-generation monitoring and modeling of wetland methane dynamics
    through artificial intelligence.”  
    *Communications Earth & Environment*, under review. 🤖
 
-9. Watts, J. D., Gewirtzman, J., Cadillo-Quiroz, H., Sihi, D., Tang, R.,
+11. Watts, J. D., Gewirtzman, J., Cadillo-Quiroz, H., Sihi, D., Tang, R.,
    West, J., Leshyk, V., Burba, G., Davidson, E., Helbig, M., Malhotra, A.,
    Matthes, J., **Oh, Y.**, and coauthors.  
    “Terrestrial methane oxidation: Climate implications and research
    priorities.”  
    *Nature Reviews Earth & Environment*, under review.
 
-10. Wagh, S., Basso, L. S., Fleischmann, A. F., Fernandes Amaral, J. H.,
+12. Wagh, S., Basso, L. S., Fleischmann, A. F., Fernandes Amaral, J. H.,
     Melack, J., Larvic, J., Walter, D., Hantson, S., Marshall, J., Wilson, C.,
     **Oh, Y.**, Bruhwiler, L., Miller, J. B., Vigouroux, C., RÃdenbeck, C.,
     and BotÃ­a, S.  
@@ -92,13 +94,13 @@ toc:
     *Atmospheric Chemistry and Physics*, under review. 
     [EGUsphere preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-5245/)
 
-11. Gaubert, B., and coauthors, including **Oh, Y.**  
+13. Gaubert, B., and coauthors, including **Oh, Y.**  
     “Tropospheric Oxidation Chemistry and Methane Growth: A Process-Based
     Attribution of OH Variability (2003-2022).”   
     *Atmospheric Chemistry and Physics*, under review.  
     [EGUsphere preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-4883/)
 
-12. Rosan, T. M., Basso, L. S., BotÃ­a, S., Pan, N., Zimbres, B., Silva, C.,
+14. Rosan, T. M., Basso, L. S., BotÃ­a, S., Pan, N., Zimbres, B., Silva, C.,
     Silva-Junior, C. H., von Randow, C., Ometto, J. P., AragÃ£o, L. E. O. C.,
     Martinez, A., Ito, A., Arneth, A., Fendrich, A., Jain, A., Valade, A.,
     van der Woude, A., Poulter, B., GÃ³mez-Ortiz, C., Wilson, C.,

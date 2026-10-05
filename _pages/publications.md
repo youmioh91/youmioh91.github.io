@@ -76,7 +76,7 @@ toc:
    Metzger, S., **Oh, Y.**, and coauthors.  
    “Next-generation monitoring and modeling of wetland methane dynamics
    through artificial intelligence.”  
-   *Communications Earth & Environment*, under review. 🤖
+   *Geophysical Research Letters*, under review. 🤖
 
 11. Watts, J. D., Gewirtzman, J., Cadillo-Quiroz, H., Sihi, D., Tang, R.,
    West, J., Leshyk, V., Burba, G., Davidson, E., Helbig, M., Malhotra, A.,
@@ -114,7 +114,15 @@ toc:
     Gao, Y., Deng, Z., and Sitch, S.  
     “The South American Greenhouse Gas Budget (2010-2024).” 
     *Journal of Geophysical Research: Biogeosciences*, under review.
-   
+
+15. Arndt, K. A., Rogers, B., Kuhn, M., Kvalevåg, M., Rødven, R., Ravolainen, V., Schädel, C., Alexander, E., Goeckede, M., Hugelius, G., Jelinski, N., Knox, S., Mammarella, I., **Oh, Y.**, Pallandt, M., Parmentier, F.-J., Wargowsky, I., and Natali, S.  
+    “An integrated Arctic-boreal terrestrial carbon flux monitoring system is crucial to meet global climate goals.”  
+    *Communications Earth & Environment*, under review.
+
+16. Malone, S. L., Chen, S., Liu, L., Xi, X., Yuan, F., Zhuang, Q., **Oh, Y.**, McNicol, G., Zhu, Q., Malhotra, A., Rozmiarek, K., Arndt, K. A., Li, F., Monteverde, D. R., Talib, A., Ward, E. J., Ying, Q., Yuan, K., and Zheng, J.  
+    “Drought raises wetland methane emissions only when it is hot.”  
+    *Earth’s Future*, under review.
+  
 
 ## 2026
 

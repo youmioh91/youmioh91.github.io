@@ -10,5 +10,5 @@ related_posts: false
 Our 2026 workshop at Yale University brought together collaborators to advance AI-driven methane research across scales.
 Watch how our AI4Methane Working Group is advancing methane science across scales, from data harmonization to knowledge-guided machine learning and the global methane budget.
 
-🎥 [Watch the showcase recording](https://lnkd.in/e6yiYyvf)
+🎥 [Watch the showcase recording](https://www.youtube.com/watch?v=SnREfRfc_Ko)
 🌐 [Learn more about AI4Methane](https://ai4ch4.com/)

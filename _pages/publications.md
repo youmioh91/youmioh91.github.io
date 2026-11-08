@@ -39,26 +39,26 @@ toc:
    *Geophysical Research Letters*, under review. 🤖
    [Preprint](https://eartharxiv.org/repository/view/13104/)
 
-3. Wang, S., Liu, J., Kasa, K., **Oh, Y.**, and Ryu, Y.  
+2. Wang, S., Liu, J., Kasa, K., **Oh, Y.**, and Ryu, Y.  
    “High-resolution daily wetland methane flux estimation via temperature-hysteresis-informed deep learning.”  
    *Remote Sensing of Environment*, under review. 🤖
 
-4. Dong, R., Sun, Y., Qiu, C., Chen, S., **Oh, Y.**, Liu, L., Xie, Y., and Jia, X.  
+3. Dong, R., Sun, Y., Qiu, C., Chen, S., **Oh, Y.**, Liu, L., Xie, Y., and Jia, X.  
    “From Coarse Grids to Sparse Chambers: Simulation–Observation Integrated Learning for Global Methane Uptake Prediction.”  
    *Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2027), AI4Science Track*, under review. 🤖
 
-5. Rozmiarek, K. S., Liu, X., **Oh, Y.**, Overeem, I., Miller, E. A.,
+4. Rozmiarek, K. S., Liu, X., **Oh, Y.**, Overeem, I., Miller, E. A.,
    Morris, V., Vaughn, B. H., Walter Anthony, K. M., and coauthors.  
    “Controls on ¹³C-CH₄ from Arctic thermokarst lakes.”  
    *Journal of Geophysical Research: Biogeosciences*, under review.
 
-6. Qi, Y., Ying, Q., Poulter, B., Jackson, R. B., Knox, S. H., Li, F.,
+5. Qi, Y., Ying, Q., Poulter, B., Jackson, R. B., Knox, S. H., Li, F.,
    **Oh, Y.**, and coauthors.  
    “Critical challenges in extending regional machine-learning models of
    wetland CH₄ fluxes to the global scale.”  
    *Global Biogeochemical Cycles*, under review. 🤖
 
-7. Sun, Y., Yu, R., Dong, R., Chen, S., Liu, L., **Oh, Y.**, Zhuang, Q.,
+6. Sun, Y., Yu, R., Dong, R., Chen, S., Liu, L., **Oh, Y.**, Zhuang, Q.,
    Xie, Y., and Jia, X.  
    “Role-aware conditional inference for spatiotemporal ecosystem carbon
    flux prediction.”  
@@ -66,26 +66,26 @@ toc:
    AI for Science Track*, under review. 🤖
    [Preprint](https://arxiv.org/abs/2603.03531)
 
-9. Wu, Q., Gu, K., Peng, B., Zhu, Q., Tang, J., Jia, X., Kumar, K.,
+7. Wu, Q., Gu, K., Peng, B., Zhu, Q., Tang, J., Jia, X., Kumar, K.,
    Chen, M., Lou, C., **Oh, Y.**, and Liu, L.  
    “Constraining global wetland CH₄ emissions from sparse observations
    with a Bridge Model framework.”  
    *Communications Earth & Environment*, under review. 🤖
 
-10. Chen, S., Zhu, Q., Liu, L., Zheng, J., Jia, X., Malhotra, A.,
+8. Chen, S., Zhu, Q., Liu, L., Zheng, J., Jia, X., Malhotra, A.,
    Metzger, S., **Oh, Y.**, and coauthors.  
    “Next-generation monitoring and modeling of wetland methane dynamics
    through artificial intelligence.”  
    *Geophysical Research Letters*, under review. 🤖
 
-11. Watts, J. D., Gewirtzman, J., Cadillo-Quiroz, H., Sihi, D., Tang, R.,
+9. Watts, J. D., Gewirtzman, J., Cadillo-Quiroz, H., Sihi, D., Tang, R.,
    West, J., Leshyk, V., Burba, G., Davidson, E., Helbig, M., Malhotra, A.,
    Matthes, J., **Oh, Y.**, and coauthors.  
    “Terrestrial methane oxidation: Climate implications and research
    priorities.”  
    *Nature Reviews Earth & Environment*, under review.
 
-12. Wagh, S., Basso, L. S., Fleischmann, A. F., Fernandes Amaral, J. H.,
+10. Wagh, S., Basso, L. S., Fleischmann, A. F., Fernandes Amaral, J. H.,
     Melack, J., Larvic, J., Walter, D., Hantson, S., Marshall, J., Wilson, C.,
     **Oh, Y.**, Bruhwiler, L., Miller, J. B., Vigouroux, C., RÃdenbeck, C.,
     and BotÃ­a, S.  
@@ -94,13 +94,7 @@ toc:
     *Atmospheric Chemistry and Physics*, under review. 
     [EGUsphere preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-5245/)
 
-13. Gaubert, B., and coauthors, including **Oh, Y.**  
-    “Tropospheric Oxidation Chemistry and Methane Growth: A Process-Based
-    Attribution of OH Variability (2003-2022).”   
-    *Atmospheric Chemistry and Physics*, under review.  
-    [EGUsphere preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-4883/)
-
-14. Rosan, T. M., Basso, L. S., BotÃ­a, S., Pan, N., Zimbres, B., Silva, C.,
+11. Rosan, T. M., Basso, L. S., BotÃ­a, S., Pan, N., Zimbres, B., Silva, C.,
     Silva-Junior, C. H., von Randow, C., Ometto, J. P., AragÃ£o, L. E. O. C.,
     Martinez, A., Ito, A., Arneth, A., Fendrich, A., Jain, A., Valade, A.,
     van der Woude, A., Poulter, B., GÃ³mez-Ortiz, C., Wilson, C.,
@@ -115,18 +109,26 @@ toc:
     “The South American Greenhouse Gas Budget (2010-2024).” 
     *Journal of Geophysical Research: Biogeosciences*, under review.
 
-15. Arndt, K. A., Rogers, B., Kuhn, M., Kvalevåg, M., Rødven, R., Ravolainen, V., Schädel, C., Alexander, E., Goeckede, M., Hugelius, G., Jelinski, N., Knox, S., Mammarella, I., **Oh, Y.**, Pallandt, M., Parmentier, F.-J., Wargowsky, I., and Natali, S.  
-    “An integrated Arctic-boreal terrestrial carbon flux monitoring system is crucial to meet global climate goals.”  
+12. Arndt, K. A., Rogers, B., Kuhn, M., Kvalevåg, M., Rødven, R.,
+    Ravolainen, V., Schädel, C., Alexander, E., Goeckede, M., Hugelius, G.,
+    Jelinski, N., Knox, S., Mammarella, I., **Oh, Y.**, Pallandt, M.,
+    Parmentier, F.-J., Wargowsky, I., and Natali, S.  
+    “An integrated Arctic-boreal terrestrial carbon flux monitoring system
+    is crucial to meet global climate goals.”  
     *Communications Earth & Environment*, under review.
 
-16. Malone, S. L., Chen, S., Liu, L., Xi, X., Yuan, F., Zhuang, Q., **Oh, Y.**, McNicol, G., Zhu, Q., Malhotra, A., Rozmiarek, K., Arndt, K. A., Li, F., Monteverde, D. R., Talib, A., Ward, E. J., Ying, Q., Yuan, K., and Zheng, J.  
+13. Malone, S. L., Chen, S., Liu, L., Xi, X., Yuan, F., Zhuang, Q.,
+    **Oh, Y.**, McNicol, G., Zhu, Q., Malhotra, A., Rozmiarek, K.,
+    Arndt, K. A., Li, F., Monteverde, D. R., Talib, A., Ward, E. J.,
+    Ying, Q., Yuan, K., and Zheng, J.  
     “Drought raises wetland methane emissions only when it is hot.”  
     *Earth’s Future*, under review.
 
-17. Zhang, Z., Qi, Y., Poulter, B., Watts, J., Ivanova, K., Sutherland, B., Poe, J., Goeckede, M., Saunois, M., **Oh, Y.**, Zhang, Y., Jiang, L., Li, X., and Chen, F.
-    “Reported exceptional Siberian methane increases call for more data.”
+14. Zhang, Z., Qi, Y., Poulter, B., Watts, J., Ivanova, K., Sutherland, B.,
+    Poe, J., Goeckede, M., Saunois, M., **Oh, Y.**, Zhang, Y., Jiang, L.,
+    Li, X., and Chen, F.  
+    “Reported exceptional Siberian methane increases call for more data.”  
     *Science*, under review.
-  
 
 ## 2026
 
@@ -145,7 +147,13 @@ toc:
    *Journal of Geophysical Research: Biogeosciences*, invited article, 2026. 🤖  
    [doi:10.1029/2025JG009668](https://doi.org/10.1029/2025JG009668)
 
-3. Zhu, Q., Arndt, K. A., Yuan, K., Li, F., Ying, Q., Liu, L., Ward, E.,
+3. Gaubert, B., and coauthors, including **Oh, Y.**  
+    “Tropospheric Oxidation Chemistry and Methane Growth: A Process-Based
+    Attribution of OH Variability (2003-2022).”   
+    *Atmospheric Chemistry and Physics*, Accepted.  
+    [EGUsphere preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-4883/)   
+
+4. Zhu, Q., Arndt, K. A., Yuan, K., Li, F., Ying, Q., Liu, L., Ward, E.,
    Malhotra, A., Zheng, J., Yuan, F., Malone, S. L., McNicol, G.,
    Knox, S. H., and coauthors, including **Oh, Y.**  
    “Multi-decadal dynamics of wetland methane emissions revealed by
@@ -153,19 +161,19 @@ toc:
    *Global Change Biology*, 2026. 🤖  
    [doi:10.1111/gcb.70899](https://doi.org/10.1111/gcb.70899)
 
-4. Dong, R., Jia, X., Sun, Y., Liu, L., **Oh, Y.**, and Chen, S.  
+5. Dong, R., Jia, X., Sun, Y., Liu, L., **Oh, Y.**, and Chen, S.  
    “CHAM-net: A contrastive hierarchical adaptive meta-network for robust
    global methane flux prediction.”  
    *International Joint Conference on Artificial Intelligence*, accepted. 🤖
 
-5. Sun, Y., Chen, S., Qiu, C., Liu, L., **Oh, Y.**, Malone, S. L.,
+6. Sun, Y., Chen, S., Qiu, C., Liu, L., **Oh, Y.**, Malone, S. L.,
    McNicol, G., Zhuang, Q., Smith, C. C. R., Xie, Y., and Jia, X.  
    “X-MethaneWet: A cross-scale global wetland methane emission benchmark
    dataset for advancing science discovery with AI.”  
    *KDD 2026 Datasets and Benchmark Track*, 2026. 🤖  
    [doi:10.1145/3770854.3785682](https://doi.org/10.1145/3770854.3785682)
 
-6. Ibarra-Espinosa, S., Hu, L., Harkins, C., McDonald, B., Miller, S.,
+7. Ibarra-Espinosa, S., Hu, L., Harkins, C., McDonald, B., Miller, S.,
    **Oh, Y.**, Bruhwiler, L., Sweeney, C., and Andrews, A.  
    “Reduced U.S. methane emissions during the COVID-19 pandemic.”  
    *Environmental Science: Atmospheres*, 2026.  

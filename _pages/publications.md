@@ -122,6 +122,10 @@ toc:
 16. Malone, S. L., Chen, S., Liu, L., Xi, X., Yuan, F., Zhuang, Q., **Oh, Y.**, McNicol, G., Zhu, Q., Malhotra, A., Rozmiarek, K., Arndt, K. A., Li, F., Monteverde, D. R., Talib, A., Ward, E. J., Ying, Q., Yuan, K., and Zheng, J.  
     “Drought raises wetland methane emissions only when it is hot.”  
     *Earth’s Future*, under review.
+
+17. Zhang, Z., Qi, Y., Poulter, B., Watts, J., Ivanova, K., Sutherland, B., Poe, J., Goeckede, M., Saunois, M., **Oh, Y.**, Zhang, Y., Jiang, L., Li, X., and Chen, F.
+    “Reported exceptional Siberian methane increases call for more data.”
+    *Science*, under review.
   
 
 ## 2026

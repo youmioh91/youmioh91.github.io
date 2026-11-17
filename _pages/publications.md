@@ -44,10 +44,9 @@ toc:
    temperature-hysteresis-informed deep learning.”  
    *Remote Sensing of Environment*, under review. 🤖
 
-3. Dong, R., Sun, Y., Qiu, C., Chen, S., **Oh, Y.**, Liu, L., Xie, Y., and Jia, X.  
-   “From Coarse Grids to Sparse Chambers: Simulation–Observation Integrated Learning for
-   Global Methane Uptake Prediction.”  
-   *Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2027), AI4Science Track*, under review. 🤖
+3. He, M., Jacob, D. J., Dang, R., Yang, L. H., Yantosca, R. M., **Oh, Y.**, Bruhwiler, L., and Clifton, O. E.  
+    “Improving model representation of global tropospheric OH.”  
+    *Geophysical Research Letters*, under review.
 
 4. Rozmiarek, K. S., Liu, X., **Oh, Y.**, Overeem, I., Miller, E. A., Morris, V.,
    Vaughn, B. H., Walter Anthony, K. M., and coauthors.  
@@ -126,9 +125,6 @@ toc:
     “Reported exceptional Siberian methane increases call for more data.”  
     *Science*, under review.
 
-15. He, M., Jacob, D. J., Dang, R., Yang, L. H., Yantosca, R. M., **Oh, Y.**, Bruhwiler, L., and Clifton, O. E.  
-    “Improving model representation of global tropospheric OH.”  
-    *Geophysical Research Letters*, under review.
 
 ## 2026
 
@@ -177,6 +173,11 @@ toc:
    “Reduced U.S. methane emissions during the COVID-19 pandemic.”  
    *Environmental Science: Atmospheres*, 2026.  
    [doi:10.1039/D6EA00004E](https://doi.org/10.1039/D6EA00004E)
+
+8. Dong, R., Sun, Y., Qiu, C., Chen, S., **Oh, Y.**, Liu, L., Xie, Y., and Jia, X.  
+   “From Coarse Grids to Sparse Chambers: Simulation–Observation Integrated Learning for
+   Global Methane Uptake Prediction.”  
+   *Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2027), AI4Science Track*, Accepted. 🤖
 
 ## 2025
 

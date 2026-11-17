@@ -126,6 +126,10 @@ toc:
     “Reported exceptional Siberian methane increases call for more data.”  
     *Science*, under review.
 
+15. He, M., Jacob, D. J., Dang, R., Yang, L. H., Yantosca, R. M., **Oh, Y.**, Bruhwiler, L., and Clifton, O. E.  
+    “Improving model representation of global tropospheric OH.”  
+    *Geophysical Research Letters*, under review.
+
 ## 2026
 
 1. ⭐ **Oh, Y.**, Bruhwiler, L., Lan, X., Halder, S., Riddell-Young, B., Basu, S.,
